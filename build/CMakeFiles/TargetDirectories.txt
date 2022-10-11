@@ -1,0 +1,10 @@
+/mnt/c/Users/HP/ECE650_git/Assg3/aaambasa/a3/build/CMakeFiles/install/local.dir
+/mnt/c/Users/HP/ECE650_git/Assg3/aaambasa/a3/build/CMakeFiles/install.dir
+/mnt/c/Users/HP/ECE650_git/Assg3/aaambasa/a3/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/HP/ECE650_git/Assg3/aaambasa/a3/build/CMakeFiles/install/strip.dir
+/mnt/c/Users/HP/ECE650_git/Assg3/aaambasa/a3/build/CMakeFiles/a3ece650.dir
+/mnt/c/Users/HP/ECE650_git/Assg3/aaambasa/a3/build/CMakeFiles/a2ece650.dir
+/mnt/c/Users/HP/ECE650_git/Assg3/aaambasa/a3/build/CMakeFiles/rgen.dir
+/mnt/c/Users/HP/ECE650_git/Assg3/aaambasa/a3/build/CMakeFiles/tests.dir
+/mnt/c/Users/HP/ECE650_git/Assg3/aaambasa/a3/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/HP/ECE650_git/Assg3/aaambasa/a3/build/CMakeFiles/rebuild_cache.dir
