@@ -293,52 +293,32 @@ int main(int argc,char *argv[]){
       //cout<<"In s"<<endl;
       ks = atoi(optarg);
       if (ks<2){
-<<<<<<< HEAD
 	cerr<<"Error: Number of street can't be less than 2"<<endl;
 	exit(1);
-=======
-	      cerr<<"Error: Number of street can't be less than 2"<<endl;
-	      exit(1);
->>>>>>> 7f43985f3845779d37c0fc00af1d22f557367cc7
       }
       break;
     }
     case 'n':{
       kn = atoi(optarg);
       if (kn<1){
-<<<<<<< HEAD
 	cerr<<"Error: Number of lines must be greater than or equal to 1"<<endl;
 	exit(1);
-=======
-	      cerr<<"Error: Number of lines must be greater than or equal to 1"<<endl;
-	      exit(1);
->>>>>>> 7f43985f3845779d37c0fc00af1d22f557367cc7
       }
       break;
     }
     case 'l': {
       kl = atoi(optarg);
       if (kl<5){
-<<<<<<< HEAD
 	cerr<<"Error: -l argument must be greater than or equal to 5"<<endl;
 	exit(1);
-=======
-	      cerr<<"Error: -l argument must be greater than or equal to 5"<<endl;
-	      exit(1);
->>>>>>> 7f43985f3845779d37c0fc00af1d22f557367cc7
       }
       break;
     }
     case 'c':{
       kc = atoi(optarg);
       if (kc<1){
-<<<<<<< HEAD
 	cerr<<"Error: -c argument must be greater than or equal to 1"<<endl;
 	exit(1);
-=======
-	      cerr<<"Error: -c argument must be greater than or equal to 1"<<endl;
-	      exit(1);
->>>>>>> 7f43985f3845779d37c0fc00af1d22f557367cc7
       }
       break;
     }
